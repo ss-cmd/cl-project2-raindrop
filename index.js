@@ -10,10 +10,12 @@ const users = {}
 
 let http = require('http');
 let server = http.createServer(app);
+
 let port = process.env.PORT || 3000;
-server.listen(port, () => {
-    console.log("Server listening at port: " + port);
+server.listen(port, ()=> {
+console.log('listening at ', port);
 });
+
 
 //Initialize socket.io
 
