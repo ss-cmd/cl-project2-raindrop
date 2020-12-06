@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/neumorphism-button-master"
+		},
+		{
+			"path": "../../../Downloads/space-warp-src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "space-warp-src"
+	}
+}
